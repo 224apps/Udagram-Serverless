@@ -1,5 +1,5 @@
 
-# How to get the Application up and Running?!
+# How to get the Application up and Running?
 ## Backend
 To deploy an application run the following commands:
 
